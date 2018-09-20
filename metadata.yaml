@@ -1,5 +1,8 @@
 _repo: Under-a-Veil-A-Comedietta-in-One-Act_52764
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52764-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Roberts, Randal H. (Randal Howland), Sir
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44486
     wikipedia: http://en.wikipedia.org/wiki/George_Melville_Baker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52764#Under-a-Veil-A-Comedietta-in-One-Act
 gutenberg_issued: '2016-08-10'
 gutenberg_type: Text
 identifiers:
